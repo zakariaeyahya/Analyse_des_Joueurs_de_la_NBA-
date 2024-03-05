@@ -26,6 +26,8 @@ Algorithme des k-plus Proches Voisins
 Construction de DataFrames pour chaque poste ('G', 'F', 'C') et création d'un DataFrame global.
 Calcul de la distance entre un joueur inconnu et les joueurs des différents postes.
 Mise en œuvre de l'algorithme des k-plus proches voisins pour prédire le poste probable d'un joueur.
+![image](https://github.com/zakariaeyahya/Analyse_des_Joueurs_de_la_NBA-/assets/155691167/bdd3b03e-42ce-416b-924b-cd5c9bc666c3)
+
 # Utilisation du Code
 Environnement de Développement
 
