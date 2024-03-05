@@ -14,8 +14,6 @@ Les joueurs sont filtrés en fonction de leur poste, créant des DataFrames dist
 
 Une fonction points est utilisée pour afficher un graphique montrant les joueurs en fonction de leur taille et poids, distingués par leur poste.
 ![image](https://github.com/zakariaeyahya/Analyse_des_Joueurs_de_la_NBA-/assets/155691167/98078744-a251-46dd-a68b-9048b76a8198)
-### Visualisation sur un Graphique
-Une fonction points est utilisée pour afficher un graphique montrant les joueurs en fonction de leur taille et poids, distingués par leur poste.
 ![image](https://github.com/zakariaeyahya/Analyse_des_Joueurs_de_la_NBA-/assets/155691167/61eadfd1-b658-4996-a28b-94bf4dee027e)
 ![image](https://github.com/zakariaeyahya/Analyse_des_Joueurs_de_la_NBA-/assets/155691167/47b9bd72-45a9-4787-9aa0-ecb87c945e40)
 ![image](https://github.com/zakariaeyahya/Analyse_des_Joueurs_de_la_NBA-/assets/155691167/58776a1e-3eb6-4624-b384-ecf0c516fca7)
