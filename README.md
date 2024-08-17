@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+![L4jNJByBd-npRrUjXkLjK_0c596c1fe30b440fba41831affff73ea](https://github.com/user-attachments/assets/f932607a-51cd-4f00-9962-6170ae5039c2)<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projet Apprentissage Automatique - Analyse des Joueurs de la NBA 2020</title>
+    <title>Projet Apprentissage Automatique - Analyse des Joueurs de la NBA 2020</title>!
+    
+
 </head>
 <body>
 
@@ -13,6 +15,7 @@
     <a href="mailto:zakariae.yh@gmail.com">zakariae.yh@gmail.com</a> |
     <a href="https://www.linkedin.com/in/zakariae-yahya">www.linkedin.com/in/zakariae-yahya</a>
 </p>
+<img src="[Uploading L4jNJByBd-npRrUjXkLjK_0c596c1fe30b440fba41831affff73ea.jpg…]()">
 
 <h2>Technologies utilisées</h2>
 <p>
@@ -62,9 +65,9 @@
 
 <h3>Bibliothèques utilisées</h3>
 <pre><code>
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
+ numpy 
+ pandas 
+ matplotlib.pyplot 
 </code></pre>
 
 <h3>Jeu de données</h3>
